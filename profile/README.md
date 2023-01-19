@@ -8,7 +8,6 @@ We are not very experienced coders so feel free to commit any suggestions.
 
 ## 🔔 What we are learning right now:
 - C++
-- Html
 - JavaScript
 
 ## 🔎 Technical Skills
