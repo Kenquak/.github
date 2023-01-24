@@ -5,10 +5,11 @@
 We are not very experienced coders so feel free to commit any suggestions.
 
 ## 🏆We are currently working on:
-
+  faucet claimer, PythonBot
 ## 🔔 What we are learning right now:
 - C++
 - JavaScript
+- SQl
 
 ## 🔎 Technical Skills
 
