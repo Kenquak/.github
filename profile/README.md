@@ -5,7 +5,7 @@
 We are not very experienced coders so feel free to commit any suggestions.
 
 ## 🏆We are currently working on:
-  faucet claimer, PythonBot,our own website
+  faucet claimer, LinkvertiseBot,our own website
 ## 🔔 What we are learning right now:
 - C++
 - JavaScript
